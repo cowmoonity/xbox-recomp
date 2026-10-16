@@ -1,0 +1,9 @@
+namespace SuperCow;
+
+internal enum LEVELOBJ_TYPE
+{
+	LOT_SCALE,
+	LOT_NONSCALE,
+	LOT_SCALEDYNAMIC,
+	LOT_DYNAMIC
+}

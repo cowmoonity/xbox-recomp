@@ -1,0 +1,22 @@
+namespace SuperCow;
+
+internal enum monsterID_t
+{
+	SNAIL_MID,
+	MOLE_MID,
+	DOG_MID,
+	BIRD_MID,
+	SPIDER_MID,
+	SPIDER2_MID,
+	HEDGEHOG_MID,
+	PIG_MID,
+	FROG_MID,
+	GOAT_MID,
+	BAT_MID,
+	WASP_MID,
+	BUG_MID,
+	BIRD2_MID,
+	FLYCATCHER_MID,
+	PROF_MID,
+	NUM_MONSTERS
+}

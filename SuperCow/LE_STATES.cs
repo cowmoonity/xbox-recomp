@@ -1,0 +1,10 @@
+namespace SuperCow;
+
+public enum LE_STATES
+{
+	LES_SELECTION,
+	LES_MOVE,
+	LES_ROTATION,
+	LES_SCALE,
+	LES_CREATE
+}

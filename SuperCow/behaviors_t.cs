@@ -1,0 +1,25 @@
+namespace SuperCow;
+
+public enum behaviors_t
+{
+	BT_STAND,
+	BT_WALK,
+	BT_ATTACK,
+	BT_DEATH,
+	BT_DEATHFALL,
+	BT_PERSUIT,
+	BT_JUMP,
+	BT_FALL,
+	BT_LIE,
+	BT_STANDUP,
+	BT_RUN,
+	BT_LOOK,
+	BT_SHOCK,
+	BT_PUSH,
+	BT_VICTORY,
+	BT_START,
+	BT_SITDOWN,
+	BT_WOW,
+	BT_LIANA,
+	BT_READ
+}

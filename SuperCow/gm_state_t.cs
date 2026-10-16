@@ -1,0 +1,11 @@
+namespace SuperCow;
+
+public enum gm_state_t
+{
+	GMS_PAUSE,
+	GMS_STAND_BY,
+	GMS_OPEN_MASK,
+	GMS_PRESENTATION_ARTEFACT,
+	GMS_CHANGE_STAGE,
+	GMS_APPEARANCE_LEVELS
+}

@@ -24,15 +24,15 @@ public class GameSettings
 
 	public bool vibration = true;
 
-	public bool freshAccount = false;
+	public bool freshAccount = true;
 
-	public int curlevel = 4;
+	public int curlevel;
 
-	public int curlevelstage = 9;
+	public int curlevelstage;
 
-	public int maxlevel = 99;
+	public int maxlevel;
 
-	public int maxlevelstage = 99;
+	public int maxlevelstage;
 
 	public uint score;
 

@@ -224,3 +224,10 @@ AppPackages/
 #####
 # End of core ignore list, below put you custom 'per project' settings (patterns or path)
 #####
+
+# Assets
+lib/*
+!lib/README
+Content/*
+!Content/README
+DashboardIcon.ico

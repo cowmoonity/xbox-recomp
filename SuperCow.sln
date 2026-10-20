@@ -1,0 +1,33 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperCow", "SuperCow.csproj", "{807E6820-4F98-808F-4444-6530FC76445F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FNA.NetStub", "..\FNA.NetStub\FNA.NetStub.csproj", "{F5328B35-F276-4157-9B69-E06D527C689B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FNA", "..\FNA\FNA.csproj", "{35253CE1-C864-4CD3-8249-4D1319748E8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{807E6820-4F98-808F-4444-6530FC76445F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{807E6820-4F98-808F-4444-6530FC76445F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{807E6820-4F98-808F-4444-6530FC76445F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{807E6820-4F98-808F-4444-6530FC76445F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5328B35-F276-4157-9B69-E06D527C689B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5328B35-F276-4157-9B69-E06D527C689B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5328B35-F276-4157-9B69-E06D527C689B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5328B35-F276-4157-9B69-E06D527C689B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35253CE1-C864-4CD3-8249-4D1319748E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35253CE1-C864-4CD3-8249-4D1319748E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35253CE1-C864-4CD3-8249-4D1319748E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35253CE1-C864-4CD3-8249-4D1319748E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {585A701F-5B15-429D-98B5-67AB4EC1B113}
+	EndGlobalSection
+EndGlobal

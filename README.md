@@ -1,7 +1,7 @@
 # Supercow XBOX Recompiled
 
-| [**RU**](./README_RU.md) |
-|--------------------------|
+| [MAIN PROJECT](https://github.com/cowmoonity/supercow-open) | [**RU README**](./README_RU.md) |
+|-------------------------------------------------------------|---------------------------------|
 
 ## About
 Full recompilation of the SuperCow game, specifically, XBOX 360 version. The project is working on **[FNA Framework](https://github.com/FNA-XNA/FNA)**, since it's a 1:1 alternative for **XNA Framework** needed for the game.
@@ -9,7 +9,7 @@ Full recompilation of the SuperCow game, specifically, XBOX 360 version. The pro
 ### Important
 This project by any means is not recompilation of PC version, nor mobile version, because XBOX version was created specifically for XBOX 360 and rewritten from ground up on `C#`, not `C++` like other versions. Moreover, it was made by different game studio.
 
-Also, the project does not fix any original bugs, doesn't rewrite game to be similar to PC/mobile version, doesn't add keyboard support, doesn't work with uncompressed game assets and doesn't fix save files. For all of that there will be fork of this project (coming soon).
+Also, the project does not fix any original bugs, doesn't rewrite game to be similar to PC/mobile version, doesn't add keyboard support, doesn't work with uncompressed game assets and doesn't fix save files. For all of that there is a fork, go there and stay tuned - [cowmoonity/supercow-open](https://github.com/cowmoonity/supercow-open). Besides that, game is already compilable and playable.
 
 ## Build
 To build this project you need:
@@ -24,6 +24,6 @@ To build this project you need:
 Because of legal concerns, project does not contain game assets such as textures, models, and sounds. They're still needed for the game to work and can be placed in `content\` folder.
 
 ## Contacts
-- [SuperCow Cowmoonity discord](discord.supercow.community)
+- [SuperCow Cowmoonity discord](https://discord.supercow.community)
 
 #### P.s Project was developed by one and only Human Intelligence
